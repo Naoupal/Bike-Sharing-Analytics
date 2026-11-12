@@ -27,8 +27,8 @@ submission
 
 ## Setup Environment
 ```
-conda create --name bike-sharing python=3.11
-conda activate bike-sharing
+conda create --name analyst python=3.10
+conda activate analyst
 pip install -r requirements.txt
 ```
 
