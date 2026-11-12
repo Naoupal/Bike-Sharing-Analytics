@@ -27,9 +27,8 @@ submission
 
 ## Setup Environment
 ```
-python -m venv venv
-# Windows : venv\Scripts\activate
-# Mac/Linux: source venv/bin/activate
+conda create --name bike-sharing python=3.11
+conda activate bike-sharing
 pip install -r requirements.txt
 ```
 
